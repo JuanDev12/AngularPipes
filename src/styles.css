@@ -9,3 +9,7 @@ body {
 .text-layout {
   color: var(--text-color);
 }
+
+.margin-button {
+  margin-right: 10px !important;
+}
